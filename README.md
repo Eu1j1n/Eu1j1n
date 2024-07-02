@@ -27,16 +27,21 @@
   <img src="https://github-readme-stats.vercel.app/api?username=Eu1j1n&show_icons=true&theme=radical" alt="Eu1j1n's GitHub stats" />
 </p>
 
+## 🚴🏿 Experience
+
+- 🏋🏻 Ureka, Uplus SW Academy(Front-end) (2024.06 ~)
+
+
 ## 💻 Tech Skills
 
-### ⚙️ Backend
+# ⚙️ Backend
 <div>
 <img alt="PHP" src="https://img.shields.io/badge/JAVA-007396.svg?&style=for-the-badge&logo=Java&logoColor=white"/>
 <img alt="MySQL" src="https://img.shields.io/badge/MySQL-4479A1.svg?&style=for-the-badge&logo=MySQL&logoColor=white"/>
 
 </div>
 
-### 🎨 Frontend
+# 🎨 Frontend
 <div>
 <img alt="HTML" src="https://img.shields.io/badge/HTML-E34F26.svg?&style=for-the-badge&logo=HTML5&logoColor=white"/>
 <img alt="CSS" src="https://img.shields.io/badge/CSS-1572B6.svg?&style=for-the-badge&logo=CSS3&logoColor=white"/>
