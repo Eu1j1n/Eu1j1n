@@ -15,8 +15,9 @@
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Eu1j1n&layout=compact" alt="Top Langs" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Eu1j1n&layout=compact" alt="Top Languages" />
 </p>
+
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Eu1j1n&show_icons=true&theme=gruvbox" alt="Eu1j1n's GitHub stats" />
