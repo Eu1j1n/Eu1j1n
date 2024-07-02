@@ -8,6 +8,8 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lhjbg0821&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
+![lhjbg0821's GitHub stats](https://github-readme-stats.vercel.app/api?username=lhjbg0821&show_icons=true&theme=gruvbox)
+
 
 
 
