@@ -1,10 +1,10 @@
-## Hi there 👋
+
 
 <!--
 **Eu1j1n/Eu1j1n** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
 
-![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=Welcome%20to&fontSize=90&text2=Euijin%20GitHub!&fontSize2=90)
+![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=Euijin%20GitHub!!&fontSize=90)
 
 Here are some ideas to get you started:
 
