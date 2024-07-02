@@ -14,9 +14,9 @@
   </a>
 </p>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Eu1j1n&layout=compact" alt="Top Languages" />
-</p>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Eu1j1n&layout=compact)](https://github.com/Eu1j1n)
+
+
 
 
 <p align="center">
