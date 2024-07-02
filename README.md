@@ -22,5 +22,7 @@
 
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Eu1j1n&show_icons=true&theme=gruvbox" alt="Eu1j1n's GitHub stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Eu1j1n&show_icons=true&theme=radical" alt="Eu1j1n's GitHub stats" />
 </p>
+
+
