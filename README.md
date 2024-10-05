@@ -1,3 +1,13 @@
+
+<a href="https://github.com/devxb/gitanimals">
+  <img
+    src="https://render.gitanimals.org/lines/Eu1j1n?pet-id=630261553674419550"
+    width="600"
+    height="200"
+  />
+</a>
+  
+
 ![header](https://capsule-render.vercel.app/api?type=cylinder&color=gradient&height=300&section=header&text=Welcome%20to%20Euijin%20GitHub&fontSize=50)
 
 <p align="center">
