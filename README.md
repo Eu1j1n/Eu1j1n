@@ -39,7 +39,7 @@
 
 ## 🚴🏿 Experience
 
-- 🏋🏻 Ureka, Uplus SW Academy(Front-end) (2024.06 ~)
+- 🏋🏻 Ureka, Uplus SW Academy(Front-end) (2024.06 ~2024.12)
 
 
 ## 💻 Tech Skills
