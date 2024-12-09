@@ -2,7 +2,7 @@
 
   
 
-![header](https://capsule-render.vercel.app/api?type=cylinder&color=gradient&height=300&section=header&text=Welcome%20to%20Euijin%20GitHub&fontSize=50)
+
 
 
 <a href="https://github.com/devxb/gitanimals">
@@ -28,18 +28,14 @@
   </a>
 </p>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Eu1j1n&layout=compact" alt="Top Languages" />
-</p>
 
 
 
 
 
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Eu1j1n&show_icons=true&theme=radical" alt="Eu1j1n's GitHub stats" />
-</p>
+
+
 
 ## 🚴🏿 Experience
 
