@@ -12,7 +12,6 @@
   height="300"
 />
 </a>
-  
 
 <p align="center">
   <a href="https://github.com/Eu1j1n">
